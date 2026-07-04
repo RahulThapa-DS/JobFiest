@@ -159,9 +159,8 @@ graph TD
    - Visibility: Public or Private
    - Do NOT initialize with README (you already have one)
 
-2. In your terminal, navigate into your project folder:
+2. In your terminal, initialize and push the repository:
    ```bash
-   cd jobfiest
    git init
    git add .
    git commit -m "Initial commit: jobfiest ADK agent"
