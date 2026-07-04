@@ -185,8 +185,8 @@ graph TD
 
 ## Assets
 
-* **Workflow Architecture**: ![Workflow Diagram](file:///d:/adk-workspace/jobfiest/assets/architecture_diagram.png)
-* **Cover Banner**: ![Cover Page Banner](file:///d:/adk-workspace/jobfiest/assets/cover_page_banner.png)
+* **Workflow Architecture**: ![Workflow Diagram](assets/architecture_diagram.png)
+* **Cover Banner**: ![Cover Page Banner](assets/cover_page_banner.png)
 
 ---
 
