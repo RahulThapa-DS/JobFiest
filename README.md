@@ -192,4 +192,4 @@ graph TD
 
 ## Demo Script
 
-The narrated spoken presentation script is available in [DEMO_SCRIPT.txt](file:///d:/adk-workspace/jobfiest/DEMO_SCRIPT.txt).
+The narrated spoken presentation script is available in [DEMO_SCRIPT.txt](DEMO_SCRIPT.txt).
